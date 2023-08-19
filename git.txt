@@ -12,3 +12,13 @@ git config --global user.name "Tom"
 git commit -m "version 1"
 
 git log
+
+git add. 
+git commit -m "version 1" --amend
+
+git log
+
+git reset .
+
+git checkout -- index.js
+git checkout -- .
