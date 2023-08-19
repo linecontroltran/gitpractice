@@ -1,0 +1,14 @@
+powershell commands
+ls
+cd
+git init
+git status
+git add .
+git status
+git commit -m "version 1"
+
+git config --global user.email "linecontroltran@gmail.com"
+git config --global user.name "Tom"
+git commit -m "version 1"
+
+git log
