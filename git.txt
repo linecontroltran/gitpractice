@@ -22,3 +22,5 @@ git reset .
 
 git checkout -- index.js
 git checkout -- .
+
+git checkout /* commithashhere */
